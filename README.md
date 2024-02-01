@@ -1,2 +1,2 @@
-# Courses_Advanced-Inference
-Course Project (Advanced Inference)
+# Advanced Inference Project
+
